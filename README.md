@@ -1,7 +1,4 @@
-<div align="center">
-  <img height="150" src="https://i.pinimg.com/736x/f1/20/ad/f120ad5a80cf2a11d540c8f72c68036b.jpg"  />
-</div>
-
+![EYE](https://github.com/prabinpanta0/prabinpanta0/assets/87630026/169f796b-bc10-4372-91c0-7c4186fbdc5c)
 ###
 
 <h1 align="center">hey there 👋</h1>
@@ -57,5 +54,9 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=prabinpanta0&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+###
+![✰Zenitsu Agatsuma](https://github.com/prabinpanta0/prabinpanta0/assets/87630026/c3d15fde-6866-4a8c-9e10-b864d51baabd)
+
 
 ###
