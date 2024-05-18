@@ -38,18 +38,26 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
 </div>
 
+
+###
+![✰Zenitsu Agatsuma](https://github.com/prabinpanta0/prabinpanta0/assets/87630026/c3d15fde-6866-4a8c-9e10-b864d51baabd)
+
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=prabinpanta0&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+<!-- GitHub Stats -- >
+
+
+
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=gruvbox&show_icons=true&theme=algolia" height="220" alt="streak graph"  />
 </div>
 
 ###
-![✰Zenitsu Agatsuma](https://github.com/prabinpanta0/prabinpanta0/assets/87630026/c3d15fde-6866-4a8c-9e10-b864d51baabd)
 
-
-###
