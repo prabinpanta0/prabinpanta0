@@ -81,10 +81,10 @@
   <div align="center">
   <img src="https://streak-stats.demolab.com?user=prabinpanta0&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
   </div>
-  <img src="https://github-readme-stats.vercel.app/api?username=prabinpanta0&show_icons=true&theme=algolia" height="200" alt="streak graph"  />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=prabinpanta0&show_icons=true&theme=algolia" height="200" alt="streak graph"  />
 
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabinpanta0&hide_progress=false&layout=compact" height="200" alt="streak graph"  />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabinpanta0&hide_progress=false&layout=compact" height="200" alt="streak graph"  />
   
 </div>
 
