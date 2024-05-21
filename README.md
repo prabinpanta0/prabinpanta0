@@ -47,7 +47,7 @@
 </div>
 
 ###
-<h3><i>Follow me:</i></h3>
+<h3><i>Contact Me:</i></h3>
 <div  align="center">
 
   <a href="https://www.linkedin.com/in/prabinpanta00/" target="_blank">
@@ -73,21 +73,33 @@
 
 
 ###
-
+<hr/>
 <h3>🔥 My Stats</h3>
 
 
 <div align="left">
   <div align="center">
-  <img src="https://streak-stats.demolab.com?user=prabinpanta0&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=prabinpanta0&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" height="200" alt="streak graph"  />
   </div>
   <br clear="both">
-  <img src="https://github-readme-stats.vercel.app/api?username=prabinpanta0&show_icons=true&theme=algolia" height="190" alt="streak graph"  />
+  <div width= 100%>
+  <img src="https://github-readme-stats.vercel.app/api?username=prabinpanta0&show_icons=true&theme=algolia&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" height="190" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabinpanta0&hide_progress=false&layout=compact" height="190" alt="streak graph"  />
   <br clear="both">
-  
+  </div>
 </div>
 
+<p align="center">
+  <a href="https://github.com/prabinpanta0">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prabinpanta0&theme=radical" alt="Prabin Panta's GitHub Contribution"/>
+  </a>
+</p>
+<h3>Activity Graph 📈</h3>
+  <br/>
+  
+[![Prabin Panta's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prabinpanta0&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true&border=false)](https://github.com/prabinpanta/github-readme-activity-graph)
+
+<hr/>
 
 
 ###
