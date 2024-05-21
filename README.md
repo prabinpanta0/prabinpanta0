@@ -79,25 +79,26 @@
 
 <div align="left">
   <div align="center">
-  <img src="https://streak-stats.demolab.com?user=prabinpanta0&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" height="200" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=prabinpanta0&theme=radical&border=7F3FBF&background=0D1117" height="200" alt="streak graph"  />
   </div>
   <br clear="both">
   <div width= 100%>
-  <img src="https://github-readme-stats.vercel.app/api?username=prabinpanta0&show_icons=true&theme=algolia&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" height="190" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabinpanta0&hide_progress=false&layout=compact" height="190" alt="streak graph"  />
-  <br clear="both">
+  <img src="https://github-readme-stats.vercel.app/api?username=prabinpanta0&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabinpanta0&hide_progress=false&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%" alt="streak graph"  />
+
   </div>
 </div>
-
+  <br clear="both">
 <p align="center">
   <a href="https://github.com/prabinpanta0">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prabinpanta0&theme=radical" alt="Prabin Panta's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prabinpanta0&theme=radical&border=7F3FBF&background=0D1117" alt="Prabin Panta's GitHub Contribution"/>
   </a>
 </p>
+  <br clear="both">
 <h3>Activity Graph 📈</h3>
-  <br/>
+
   
-[![Prabin Panta's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prabinpanta0&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true&border=false)](https://github.com/prabinpanta/github-readme-activity-graph)
+[![Prabin Panta's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prabinpanta0&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true&border_color=7F3FBF)](https://github.com/prabinpanta/github-readme-activity-graph)
 
 <hr/>
 
