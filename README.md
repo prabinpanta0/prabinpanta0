@@ -1,11 +1,14 @@
+<div style="color: #e6edf3;" style="background-color: #0d1117;">
+  
 ![EYE](https://github.com/prabinpanta0/prabinpanta0/assets/87630026/169f796b-bc10-4372-91c0-7c4186fbdc5c)
 ###
 
-<h1 align="center">hey there <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="50"]></h1>
+<h1 align="center">
 
-###
+ 
+<img src="https://readme-typing-svg.demolab.com?font=Poetsen+One&size=40&duration=4000&pause=8&color=e6edf3&center=true&vCenter=true&random=false&width=435&lines=Hey+There+!;I'm+Prabin+Panta;Nice+To+Meet+You" alt="Typing SVG">
 
-<h1 align="center">I'm Prabin Panta</h1>
+</h1>
 
 ###
 
@@ -109,4 +112,5 @@
 
 <div style="align-items:center;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer"width="100%" />
+</div>
 </div>
