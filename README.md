@@ -6,7 +6,7 @@
 <h1 align="center">
 
  
-<img src="https://readme-typing-svg.demolab.com?font=Poetsen+One&size=40&duration=4000&pause=8&color=e6edf3&center=true&vCenter=true&random=false&width=435&lines=Hey+There+!;I'm+Prabin+Panta;Nice+To+Meet+You" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Poetsen+One&size=40&duration=4000&pause=8&color=e6edf3&center=true&vCenter=true&random=false&width=435&lines=Hey+There+!;I'm+Prabin+Panta;It's+Nice+To+Meet+You" alt="Typing SVG">
 
 </h1>
 
