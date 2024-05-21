@@ -81,20 +81,18 @@
   <div align="center">
   <img src="https://streak-stats.demolab.com?user=prabinpanta0&theme=radical&border=7F3FBF&background=0D1117" height="200" alt="streak graph"  />
   </div>
-  <br clear="both">
-  <div width= 100%>
-  <img src="https://github-readme-stats.vercel.app/api?username=prabinpanta0&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabinpanta0&hide_progress=false&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%" alt="streak graph"  />
-
-  </div>
-</div>
-  <br clear="both">
-<p align="center">
-  <a href="https://github.com/prabinpanta0">
+<br/>
+  <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prabinpanta0&theme=radical&border=7F3FBF&background=0D1117" alt="Prabin Panta's GitHub Contribution"/>
-  </a>
+
 </p>
-  <br clear="both">
+  
+
+<img alt="Prabin Panta's Github Stats" src="https://github-readme-stats.vercel.app/api?username=prabinpanta0&show_icons=true&show_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+<img alt="Prabin Panta's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabinpanta0&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+
+</div>
+  <br/>
 <h3>Activity Graph 📈</h3>
 
   
