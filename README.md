@@ -1,13 +1,16 @@
-<div style="color: #e6edf3;" style="background-color: #0d1117;">
+<div style="background-color: #0d1117;">
   
 ![EYE](https://github.com/prabinpanta0/prabinpanta0/assets/87630026/169f796b-bc10-4372-91c0-7c4186fbdc5c)
 ###
 
 <h1 align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Space+Mono&center=true&vCenter=true&size=40&duration=4000&pause=9&color=E6EDF3&random=false&width=650&height=55&lines=Hey+There+!;I'm+Prabin+Panta;It's+Nice+To+Meet+You+!">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Space+Mono&center=true&vCenter=true&size=40&duration=4000&pause=9&color=0d1117&random=false&width=650&height=55&lines=Hey+There+!;I'm+Prabin+Panta;It's+Nice+To+Meet+You+!">
+  <img alt="SVG Typing" src="https://readme-typing-svg.demolab.com?font=Space+Mono&center=true&vCenter=true&size=40&duration=4000&pause=9&color=E6EDF3&random=false&width=650&height=55&lines=Hey+There+!;I'm+Prabin+Panta;It's+Nice+To+Meet+You+!">
+</picture>
  
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&center=true&vCenter=true&size=40&duration=4000&pause=9&color=E6EDF3&random=false&width=650&height=55&lines=Hey+There+!;I'm+Prabin+Panta;It's+Nice+To+Meet+You+!" alt="Typing SVG">
-
 </h1>
 
 ###
