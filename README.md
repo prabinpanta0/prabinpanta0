@@ -72,8 +72,8 @@
    <a href="mailto:pantaprabin30@gmail.com" mailto="pantaprabin30@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-     <a href="prabinpanta0" target="_blank">
-    <img src="https://img.shields.io/badge/Hugging_Face_%F0%9F%A4%97-blue?style=for-the-badge&logo=Hugging_Face&logoColor=white">
+     <a href="https://huggingface.co/prabinpanta0" target="_blank">
+    <img src="https://img.shields.io/badge/Hugging_Face_%F0%9F%A4%97-blue?style=for-the-badge&logo=HuggingFace&logoColor=white">
   </a>
 </div>
 
