@@ -8,7 +8,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Space+Mono&center=true&vCenter=true&size=40&duration=4000&pause=9&color=E6EDF3&random=false&width=650&height=55&lines=Hey+There+!;I'm+Prabin+Panta;It's+Nice+To+Meet+You+!">
   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Space+Mono&center=true&vCenter=true&size=40&duration=4000&pause=9&color=0d1117&random=false&width=650&height=55&lines=Hey+There+!;I'm+Prabin+Panta;It's+Nice+To+Meet+You+!">
-  <img alt="SVG Typing" src="https://readme-typing-svg.demolab.com?font=Space+Mono&center=true&vCenter=true&size=40&duration=4000&pause=9&color=0d1117&random=false&width=650&height=55&lines=Hey+There+!;I'm+Prabin+Panta;It's+Nice+To+Meet+You+!">
+  <img alt="SVG Typing" src="https://readme-typing-svg.demolab.com?font=Space+Mono&center=true&vCenter=true&size=40&duration=4000&pause=9&color=36BCF7FF&random=false&width=650&height=55&lines=Hey+There+!;I'm+Prabin+Panta;It's+Nice+To+Meet+You+!">
 </picture>
  
 </h1>
