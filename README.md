@@ -90,12 +90,12 @@
         <img align="left" height="445" src="https://github.com/prabinpanta0/prabinpanta0/assets/87630026/279548dc-b0f3-4619-ae0d-6307985a3fc0"  />
   <div align="">
       <a href="https://github.com/prabinpanta0">
-  <img src="https://streak-stats.demolab.com?user=prabinpanta0&theme=radical&border=7F3FBF&background=0D1117" height="252" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=prabinpanta0&theme=radical&border=7F3FBF&background=0D1117" height="200" alt="streak graph"  />
       </a>
   </div>
   <p align="">
       <a href="https://github.com/prabinpanta0">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prabinpanta0&theme=radical&border=7F3FBF&background=0D1117" height="202" alt="Prabin Panta's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prabinpanta0&theme=radical&border=7F3FBF&background=0D1117" height="200" alt="Prabin Panta's GitHub Contribution"/>
       </a>
 </p>
 
