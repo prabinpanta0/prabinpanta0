@@ -5,6 +5,7 @@
 
 <h1 align="center">
 
+
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Space+Mono&center=true&vCenter=true&size=40&duration=4000&pause=9&color=36BCF7FF&random=false&width=650&height=55&lines=Hey+There+!;I'm+Prabin+Panta;It's+Nice+To+Meet+You+!">
   
@@ -25,11 +26,10 @@
 
   ###
 
+
 <br clear="both">
 
 <img align="right" height="200" src="https://i.pinimg.com/736x/62/24/8c/62248cb4c71b57a6a1599991887cce71.jpg"  />
-
-
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
@@ -67,7 +67,7 @@
   <a href="https://www.facebook.com/prabinpanta0" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
-
+<br />
  <a href="https://twitter.com/PrabinPanta6/" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
@@ -79,6 +79,7 @@
   </a>
 </div>
 
+<br clear="both">
 
 ###
 <hr/>
@@ -86,23 +87,26 @@
 
 
 <div align="left">
-  <div align="center">
+        <img align="left" height="445" src="https://github.com/prabinpanta0/prabinpanta0/assets/87630026/279548dc-b0f3-4619-ae0d-6307985a3fc0"  />
+  <div align="">
       <a href="https://github.com/prabinpanta0">
-  <img src="https://streak-stats.demolab.com?user=prabinpanta0&theme=radical&border=7F3FBF&background=0D1117" height="200" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=prabinpanta0&theme=radical&border=7F3FBF&background=0D1117" height="252" alt="streak graph"  />
       </a>
   </div>
-<br/>
-  
-  <p align="center">
+  <p align="">
       <a href="https://github.com/prabinpanta0">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prabinpanta0&theme=radical&border=7F3FBF&background=0D1117" alt="Prabin Panta's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prabinpanta0&theme=radical&border=7F3FBF&background=0D1117" height="202" alt="Prabin Panta's GitHub Contribution"/>
       </a>
 </p>
-  
+
+###
+<be />
+
   <a href="https://github.com/prabinpanta0">
-<img alt="Prabin Panta's Github Stats" src="https://github-readme-stats.vercel.app/api?username=prabinpanta0&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+<img alt="Prabin Panta's Github Stats" src="https://github-readme-stats.vercel.app/api?username=prabinpanta0&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="252px" width="49.5%"/></a>
+
   <a href="https://github.com/prabinpanta0">
-<img alt="Prabin Panta's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabinpanta0&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+<img alt="Prabin Panta's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabinpanta0&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="252px" width="49.5%"/></a>
 
 </div>
   <br/>
