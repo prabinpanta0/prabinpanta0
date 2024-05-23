@@ -95,7 +95,7 @@
   </div>
   <p align="">
       <a href="https://github.com/prabinpanta0">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prabinpanta0&theme=radical&border=7F3FBF&background=0D1117" height="195" alt="Prabin Panta's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prabinpanta0&theme=radical&border=7F3FBF&background=0D1117" alt="Prabin Panta's GitHub Contribution"/>
       </a>
 </p>
 
