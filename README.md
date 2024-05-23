@@ -30,6 +30,7 @@
 <br clear="both">
 
 <img align="right" height="200" src="https://i.pinimg.com/736x/62/24/8c/62248cb4c71b57a6a1599991887cce71.jpg"  />
+
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
@@ -95,12 +96,12 @@
   </div>
   <p align="">
       <a href="https://github.com/prabinpanta0">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prabinpanta0&theme=radical&border=7F3FBF&background=0D1117" width="495" alt="Prabin Panta's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prabinpanta0&theme=radical&border=7F3FBF&background=0D1117" width="500" alt="Prabin Panta's GitHub Contribution"/>
       </a>
 </p>
 
 ###
-<be />
+<be clear="both">
 
   <a href="https://github.com/prabinpanta0">
 <img alt="Prabin Panta's Github Stats" src="https://github-readme-stats.vercel.app/api?username=prabinpanta0&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="252px" width="49.5%"/></a>
