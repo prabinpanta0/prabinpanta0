@@ -92,12 +92,12 @@
   <img src="https://streak-stats.demolab.com?user=prabinpanta0&theme=radical&border=7F3FBF&background=0D1117" height="200" alt="streak graph"  />
       </a>
 
-  <a href="https://github.com/prabinpanta0">
-<img alt="Prabin Panta's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabinpanta0&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="252px" width="49.5%"/></a>
 
   <a href="https://github.com/prabinpanta0">
-<img alt="Prabin Panta's Github Stats" src="https://github-readme-stats.vercel.app/api?username=prabinpanta0&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="252px" width="49.5%"/></a>
+<img alt="Prabin Panta's Github Stats" src="https://github-readme-stats.vercel.app/api?username=prabinpanta0&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="49.5%"/></a>
 
+  <a href="https://github.com/prabinpanta0">
+<img alt="Prabin Panta's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabinpanta0&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="252px" width="100%"/></a>
 
 
 <br clear="both">
