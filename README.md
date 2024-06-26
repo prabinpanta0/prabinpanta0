@@ -7,7 +7,7 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Space+Mono&center=true&vCenter=true&size=40&duration=4000&pause=9&color=0d1117c2&random=false&width=650&height=55&lines=Hey+There+!;I'm+Prabin+Panta;It's+Nice+To+Meet+You+!">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Space+Mono&center=true&vCenter=true&size=40&duration=4000&pause=9&color=58a6ff&random=false&width=650&height=55&lines=Hey+There+!;I'm+Prabin+Panta;It's+Nice+To+Meet+You+!">
   
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Space+Mono&center=true&vCenter=true&size=40&duration=4000&pause=9&color=E6EDF3&random=false&width=650&height=55&lines=Hey+There+!;I'm+Prabin+Panta;It's+Nice+To+Meet+You+!">
   
@@ -18,13 +18,11 @@
 
 ###
 
-  <div align="center">
-    
-![Views](https://komarev.com/ghpvc/?username=prabinpanta0)
-![Last Update](https://img.shields.io/github/last-commit/prabinpanta0/prabinpanta0?label=Last%20Update&style=social)
-  </div>
+  <p align="center">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=Prabinpanta0&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
+  </p>
 
-  ###
+###
 
 
 <br clear="both">
@@ -74,8 +72,8 @@
    <a href="mailto:pantaprabin30@gmail.com" mailto="pantaprabin30@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-     <a href="https://huggingface.co/prabinpanta0" target="_blank">
-    <img src="https://img.shields.io/badge/Hugging_Face-blue?style=for-the-badge&logo=HuggingFace" alt="HuggingFace>
+  <a href="https://huggingface.co/prabinpanta0" target="_blank">
+    <img src="https://img.shields.io/badge/Hugging_Face-blue?style=for-the-badge&logo=HuggingFace" alt="HuggingFace">
   </a>
 </div>
 
