@@ -87,16 +87,20 @@
 
 
 <div align="left">
-        <img align="left" height="445" src="https://github.com/prabinpanta0/prabinpanta0/assets/87630026/279548dc-b0f3-4619-ae0d-6307985a3fc0"  />
-      <a href="https://github.com/prabinpanta0">
-  <img src="https://streak-stats.demolab.com?user=prabinpanta0&theme=radical&border=7F3FBF&background=0D1117" height="200" alt="streak graph"  />
-      </a>
+<!--         <img align="left" height="445" src="https://github.com/prabinpanta0/prabinpanta0/assets/87630026/279548dc-b0f3-4619-ae0d-6307985a3fc0"  /> -->
 
-  <a href="https://github.com/prabinpanta0">
-<img alt="Prabin Panta's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabinpanta0&theme=react&count_private=true&show_private=true&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="252px" width="50%"/></a>
-<br clear="both">
-  <a href="https://github.com/prabinpanta0">
-<img alt="Prabin Panta's Github Stats" src="https://github-readme-stats.vercel.app/api?username=prabinpanta0&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="100%"/></a>
+
+<hr>
+
+
+| ![Chinmay Github Stats](https://github-readme-stats.vercel.app/api?username=Prabinpanta0&show_icons=true&theme=radical)             | ![Chinmay GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prabinpanta0&theme=radical)                               |
+
+| -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prabinpanta0&langs_count=8&theme=radical&layout=compact) | ![Github Stars](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prabinpanta0&theme=radical&utcOffset=8) |
+
+<!-- color=nord_dark -->
+
+<hr>
 
 
 
