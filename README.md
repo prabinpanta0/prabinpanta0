@@ -75,7 +75,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
      <a href="https://huggingface.co/prabinpanta0" target="_blank">
-    <img src="https://img.shields.io/badge/Hugging_Face_%F0%9F%A4%97-blue?style=for-the-badge&logo=HuggingFace&logoColor=white">
+    <img src="https://img.shields.io/badge/Hugging_Face-blue?style=for-the-badge&logo=HuggingFace" alt="HuggingFace>
   </a>
 </div>
 
