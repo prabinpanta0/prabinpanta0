@@ -102,7 +102,7 @@
 
 <br clear="both">
       <a href="https://github.com/prabinpanta0">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prabinpanta0&count_private=true&show_private=true&theme=radical&border=7F3FBF&background=0D1117" width="100%"  height="300px" alt="Prabin Panta's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prabinpanta0&count_private=true&show_private=true&theme=radical&border=7F3FBF&background=0D1117" display=block width=100% height=auto  alt="Prabin Panta's GitHub Contribution"/>
       </a>
 </p>
 </div>
