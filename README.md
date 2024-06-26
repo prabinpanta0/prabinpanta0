@@ -83,14 +83,12 @@
 
 ###
 <hr/>
-<h3>🔥 My Stats</h3>
+<h3>🔥 <i>My Stats</i></h3>
 
 
 <div align="left">
 <!--         <img align="left" height="445" src="https://github.com/prabinpanta0/prabinpanta0/assets/87630026/279548dc-b0f3-4619-ae0d-6307985a3fc0"  /> -->
 
-
-<hr>
 
 
 | ![Prabin's Github Stats](https://github-readme-stats.vercel.app/api?username=prabinpanta0&show_icons=true&theme=radical)              | ![Prabin GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prabinpanta0&theme=radical)                               |
