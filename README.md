@@ -91,7 +91,7 @@
 
 | ![Prabin's Github Stats](https://github-readme-stats.vercel.app/api?username=prabinpanta0&show_icons=true&theme=radical)              | ![Prabin GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prabinpanta0&theme=radical)                               |
 | -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prabinpanta0&langs_count=8&theme=radical&layout=compact) | ![Github Stars](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prabinpanta0&theme=radical&utcOffset=8) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prabinpanta0&langs_count=8&theme=radical&layout=compact) | ![Github Stars](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prabinpanta0&theme=radical&utcOffset=5:45) |
 
 
 <!-- color=nord_dark -->
