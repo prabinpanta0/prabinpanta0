@@ -98,7 +98,11 @@
 
 <hr>
 
+<h3> 💳 *Github Profile Summary Card* </h3>
 
+<img width="200px" align="left" src="https://komarev.com/ghpvc/?username=your-github-Shrey-Srivastava21&style=flat-square&color=22CCB2">
+<hr>
+<br>
 
 <br clear="both">
       <a href="https://github.com/prabinpanta0">
