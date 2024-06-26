@@ -110,8 +110,7 @@
       </a>
 </p>
 </div>
-  <br clear="both">
-
+<hr>
   
 <h3>Activity Graph 📈</h3>
 
