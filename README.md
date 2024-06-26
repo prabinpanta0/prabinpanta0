@@ -19,7 +19,7 @@
 ###
 
   <p align="center">
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=Prabinpanta0&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=Prabinpanta0&data=followers,repositories,stars,commits&theme=radical&title_color=red">
   </p>
 
 ###
