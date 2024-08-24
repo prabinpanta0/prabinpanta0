@@ -32,8 +32,16 @@ def send_message_to_user(username, subject, body):
             with smtplib.SMTP('smtp.gmail.com', 587) as server:
                 server.starttls()
                 server.login(EMAIL_ADDRESS, EMAIL_PASSWORD)
+                send_discord_notification("Successfully logged in to SMTP server.")
                 server.sendmail(EMAIL_ADDRESS, email, msg.as_string())
                 print(f'Email sent to {username} ({email})')
+                 send_discord_notification(f"Email sent to {username} ({email})")
+        except smtplib.SMTPAuthenticationError as auth_error:
+            print(f'Authentication failed: {auth_error}')
+            send_discord_notification(f"SMTP Authentication failed: {auth_error}")
+        except smtplib.SMTPException as smtp_error:
+            print(f'SMTP error: {smtp_error}')
+            send_discord_notification(f"SMTP error occurred: {smtp_error}")
         except Exception as e:
             print(f'Failed to send email to {username}. Error: {str(e)}')
             send_discord_notification(f"Failed to send email to {username} ({email}).")
