@@ -2,7 +2,7 @@ name: Follow Unfollow Automation
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs at midnight every day
+    - cron: '45 18 * * *' # Runs at 12:30 AM Nepal Time (UTC+5:45)
   workflow_dispatch:  # Allows manual triggering
 
 jobs:
