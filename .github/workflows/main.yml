@@ -1,9 +1,9 @@
-name: GitHub Auto Follow/Unfollow
+name: Follow Unfollow Automation
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs the action daily at midnight UTC
-  workflow_dispatch: # Allows manual triggering of the workflow
+    - cron: '0 * * * *'  # Runs every hour
+  workflow_dispatch:  # Allows manual triggering
 
 jobs:
   follow-unfollow:
@@ -13,23 +13,21 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v3
 
-    - name: Set up Node.js 20.x (Optional)
-      uses: actions/setup-node@v3
-      with:
-        node-version: '20.x'
-
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
-        python-version: '3.x'
+        python-version: '3.9'
 
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
         pip install requests
 
-    - name: Run Follow/Unfollow Script
+    - name: Run follow_unfollow.py
       env:
         TOKEN: ${{ secrets.TOKEN }}
         USERNAME: ${{ secrets.USERNAME }}
+        DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        EMAIL_ADDRESS: ${{ secrets.EMAIL_ADDRESS }}
+        EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
       run: python follow_unfollow.py
