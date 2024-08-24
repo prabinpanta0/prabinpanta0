@@ -4,7 +4,6 @@ on:
   schedule:
     - cron: '0 0 * * *'  # Runs the action daily at midnight UTC
   workflow_dispatch: # Allows manual triggering of the workflow
-  # Unfortunately, GitHub doesn't provide direct hooks for follow/unfollow events.
 
 jobs:
   follow-unfollow:
@@ -13,6 +12,11 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v3
+
+    - name: Set up Node.js 20.x (Optional)
+      uses: actions/setup-node@v3
+      with:
+        node-version: '20.x'
 
     - name: Set up Python
       uses: actions/setup-python@v4
