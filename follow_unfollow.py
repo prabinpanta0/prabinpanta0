@@ -61,7 +61,7 @@ def follow_all_followers():
     for i, user in enumerate(non_following, 1):
         if follow_user(user):
             print(f'{i}. followed {user}.')
-            send_message_to_user(user, "Thank you for following!", "It's great to have you on board.")
+            send_message_to_user(user, f"Dear {user}, Thank you for following!", f"It's great to have you on board. {GITHUB_USERNAME} (GitHub)")
             send_discord_notification(f"Followed {user}.")
         else:
             print(f'{i}. Failed to follow {user}.')
@@ -97,7 +97,7 @@ def find_and_unfollow_non_followers():
     for i, user in enumerate(non_followers, 1):
         if unfollow_user(user):
             print(f'{i}. Unfollowed {user}.')
-            send_message_to_user(user, "It's sad to see you go", "We hope to see you again!")
+            send_message_to_user(user, f"Dear {user}, It's sad to see you go", f"We hope to see you again! {GITHUB_USERNAME} (GitHub)")
             send_discord_notification(f"Unfollowed {user}.")
         else:
             print(f'{i}. Failed to unfollow {user}.')
