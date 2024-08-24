@@ -34,12 +34,22 @@ def send_message_to_user(username, subject, body):
                 server.login(EMAIL_ADDRESS, EMAIL_PASSWORD)
                 server.sendmail(EMAIL_ADDRESS, email, msg.as_string())
                 print(f'Email sent to {username} ({email})')
-        except Exception as e:
-            print(f'Failed to send email to {username}. Error: {str(e)}')
-            send_discord_notification(f"Failed to send email to {username} ({email}).")
+        except smtplib.SMTPAuthenticationError:
+            error_message = f'Authentication failed. Check your email and password for {EMAIL_ADDRESS}.'
+            print(error_message)
+            send_discord_notification(error_message)
+        except smtplib.SMTPRecipientsRefused:
+            error_message = f'Recipient refused. The email address {email} may be invalid.'
+            print(error_message)
+            send_discord_notification(error_message)
+        except smtplib.SMTPException as e:
+            error_message = f'Failed to send email to {username}. SMTP error: {str(e)}'
+            print(error_message)
+            send_discord_notification(error_message)
     else:
-        print(f'No email found for {username}')
-        send_discord_notification(f'No email found for {username}')
+        no_email_message = f'No email found for {username}'
+        print(no_email_message)
+        send_discord_notification(no_email_message)
 
 
 def fetch_user_email(username):
