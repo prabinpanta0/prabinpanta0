@@ -47,7 +47,9 @@ def fetch_user_email(username):
         response = requests.get(url)
         events = response.json()
         emails = {commit['author']['email'] for event in events if event['type'] == 'PushEvent' for commit in event['payload']['commits']}
-        return next(iter(emails), None)
+        # Filter out emails containing '@users.noreply.github.com'
+        valid_emails = {email for email in emails if not email.endswith('@users.noreply.github.com')}
+        return next(iter(valid_emails), None)
     except Exception as e:
         print(f'Error fetching email for {username}: {str(e)}')
         return None
@@ -58,3 +60,6 @@ def no_one_to_follow():
 
 def no_one_to_unfollow():
     send_discord_notification("No one to unfollow")
+
+# Example usage
+# send_message_to_user('someusername', 'Subject', 'Message body')
