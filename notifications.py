@@ -1,12 +1,12 @@
-import requests
 import os
 import smtplib
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
+import requests
 
 DISCORD_WEBHOOK_URL = os.getenv('DISCORD_WEBHOOK_URL')
-EMAIL_ADDRESS = os.getenv('EMAIL_ADDRESS')  # Your email address
-EMAIL_PASSWORD = os.getenv('EMAIL_PASSWORD')  # Your email password
+EMAIL_ADDRESS = os.getenv('EMAIL_ADDRESS')
+EMAIL_PASSWORD = os.getenv('EMAIL_PASSWORD')
 
 def send_discord_notification(message):
     data = {
@@ -14,59 +14,40 @@ def send_discord_notification(message):
     }
     response = requests.post(DISCORD_WEBHOOK_URL, json=data)
     if response.status_code != 204:
-        raise Exception(f"Failed to send Discord notification: {response.status_code}, {response.text}")
+        print(f"Failed to send Discord notification. Status code: {response.status_code}")
 
-def get_user_email(username):
-    url = f"https://api.github.com/users/{username}/events/public"
-    response = requests.get(url)
-    if response.status_code == 200:
+def send_message_to_user(username, subject, body):
+    # Fetch the user's email
+    email = fetch_user_email(username)
+    
+    if email:
+        msg = MIMEMultipart()
+        msg['From'] = EMAIL_ADDRESS
+        msg['To'] = email
+        msg['Subject'] = subject
+
+        msg.attach(MIMEText(body, 'plain'))
+
+        try:
+            with smtplib.SMTP('smtp.gmail.com', 587) as server:
+                server.starttls()
+                server.login(EMAIL_ADDRESS, EMAIL_PASSWORD)
+                server.sendmail(EMAIL_ADDRESS, email, msg.as_string())
+                print(f'Email sent to {username} ({email})')
+        except Exception as e:
+            print(f'Failed to send email to {username}. Error: {str(e)}')
+            send_discord_notification(f"Failed to send email to {username} ({email}).")
+    else:
+        print(f'No email found for {username}')
+        send_discord_notification(f'No email found for {username}')
+
+def fetch_user_email(username):
+    try:
+        url = f"https://api.github.com/users/{username}/events/public"
+        response = requests.get(url)
         events = response.json()
-        emails = set()
-
-        for event in events:
-            if event['type'] == 'PushEvent':
-                commits = event['payload'].get('commits', [])
-                for commit in commits:
-                    email = commit['author'].get('email')
-                    if email:
-                        emails.add(email)
-
-        return list(emails)
-    return []
-
-def send_email(to_email, subject, body):
-    msg = MIMEMultipart()
-    msg['From'] = EMAIL_ADDRESS
-    msg['To'] = to_email
-    msg['Subject'] = subject
-
-    msg.attach(MIMEText(body, 'plain'))
-
-    server = smtplib.SMTP('smtp.gmail.com', 587)
-    server.starttls()
-    server.login(EMAIL_ADDRESS, EMAIL_PASSWORD)
-    text = msg.as_string()
-    server.sendmail(EMAIL_ADDRESS, to_email, text)
-    server.quit()
-
-def send_message_to_user(username, action):
-    emails = get_user_email(username)
-
-    if not emails:
-        no_email_message = f"No email found for {username}."
-        print(no_email_message)
-        send_discord_notification(no_email_message)  # Send Discord notification
-        return
-
-    for email in emails:
-        if action == "follow":
-            subject = "Thank You for Following!"
-            body = f"Dear {username},\n\nThank you for following me on GitHub! I appreciate your support."
-        elif action == "unfollow":
-            subject = "Sad to See You Go"
-            body = f"Dear {username},\n\nIt's sad to see you go. If you ever wish to reconnect, I'm here."
-        else:
-            subject = "Hello!"
-            body = f"Dear {username},\n\nThank you for your interaction!"
-
-        send_email(email, subject, body)
+        emails = {commit['author']['email'] for event in events if event['type'] == 'PushEvent' for commit in event['payload']['commits']}
+        return next(iter(emails), None)
+    except Exception as e:
+        print(f'Error fetching email for {username}: {str(e)}')
+        return None
