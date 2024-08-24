@@ -41,6 +41,7 @@ def send_message_to_user(username, subject, body):
         print(f'No email found for {username}')
         send_discord_notification(f'No email found for {username}')
 
+
 def fetch_user_email(username):
     try:
         url = f"https://api.github.com/users/{username}/events/public"
