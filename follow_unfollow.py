@@ -1,7 +1,7 @@
 import os
 import requests
 import time
-from notifications import send_message_to_user, send_discord_notification
+from notifications import send_message_to_user, send_discord_notification, no_one_to_follow, no_one_to_unfollow
 
 # Get environment variables
 GITHUB_TOKEN = os.getenv('TOKEN')
@@ -54,6 +54,7 @@ def follow_all_followers():
     non_following = list(followers - following)
     if not non_following:
         print('No one Left to follow back')
+        no_one_to_follow()
         return
     print(f'\n {len(non_following)} are left to followback \n')
     print('\nList of non-followers:\n')
@@ -89,6 +90,7 @@ def find_and_unfollow_non_followers():
     non_followers = list(following - followers)
     if not non_followers:
         print('You don\'t follow anyone who doesn\'t follow you back.')
+        no_one_to_unfollow()
         return
     print(f'\nYou follow {len(non_followers)} people who don\'t follow you back.')
     print('\nList of non-followers:\n')
