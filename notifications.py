@@ -34,6 +34,7 @@ def send_message_to_user(username, subject, body):
                 server.login(EMAIL_ADDRESS, EMAIL_PASSWORD)
                 server.sendmail(EMAIL_ADDRESS, email, msg.as_string())
                 print(f'Email sent to {username} ({email})')
+                send_discord_notification(f"Email sent to {username} ({email})")
         except smtplib.SMTPAuthenticationError:
             error_message = f'Authentication failed. Check your email and password for {EMAIL_ADDRESS}.'
             print(error_message)
