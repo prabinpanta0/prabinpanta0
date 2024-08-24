@@ -119,6 +119,9 @@
     
 [![Prabin Panta's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prabinpanta0&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true&border_color=7F3FBF)](https://github.com/prabinpanta0)
 
+<a href="https://github.com/prabinpanta0/prabinpanta0/actions/workflows/main.yml">
+    <img width="200px" align="left" src="https://github.com/prabinpanta0/prabinpanta0/actions/workflows/main.yml/badge.svg?style=flat-square">
+</a>
 <hr/>
 
 
@@ -134,6 +137,6 @@
 </div>
 -->
 
-<p> <b> Note </b> : Your follow status will be automatically adjusted at midnight.</p>
+<b> Note </b> : Your follow status will be automatically adjusted at midnight.
 
 </div>
