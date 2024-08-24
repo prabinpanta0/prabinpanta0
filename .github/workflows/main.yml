@@ -2,7 +2,7 @@ name: Follow Unfollow Automation
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Runs every hour
+    - cron: '0 0 * * *' # Runs at midnight every day
   workflow_dispatch:  # Allows manual triggering
 
 jobs:
