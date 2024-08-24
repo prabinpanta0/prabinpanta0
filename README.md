@@ -16,6 +16,7 @@
  
 </h1>
 
+
 ###
 
   <p align="center">
@@ -127,8 +128,12 @@
 
 
 ### -->
-
+<!--
 <div style="align-items:center;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer"width="100%" />
 </div>
+-->
+
+<p> <b> Note </b> : Your follow status will be automatically adjusted at midnight.</p>
+
 </div>
