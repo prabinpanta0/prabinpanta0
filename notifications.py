@@ -10,7 +10,7 @@ EMAIL_PASSWORD = os.getenv('EMAIL_PASSWORD')
 
 def send_discord_notification(message):
     data = {
-        "content": message
+        "content": f"Github(prabinpanta0): {message}"
     }
     response = requests.post(DISCORD_WEBHOOK_URL, json=data)
     if response.status_code != 204:
@@ -51,3 +51,10 @@ def fetch_user_email(username):
     except Exception as e:
         print(f'Error fetching email for {username}: {str(e)}')
         return None
+
+# Added notifications for no one to follow/unfollow
+def no_one_to_follow():
+    send_discord_notification("No one to follow")
+
+def no_one_to_unfollow():
+    send_discord_notification("No one to unfollow")
