@@ -137,6 +137,6 @@
 </div>
 -->
 
-<b> Note </b> : Your follow status will be automatically adjusted at midnight.
+<b> Note </b> : Your follow status will be automatically adjusted.
 
 </div>
