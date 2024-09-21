@@ -75,9 +75,9 @@
   <a href="https://huggingface.co/prabinpanta0" target="_blank">
     <img src="https://img.shields.io/badge/Hugging_Face-blue?style=for-the-badge&logo=HuggingFace" alt="HuggingFace">
   </a>
-  
-  [![Send Me a Message](https://img.shields.io/badge/Send%20Me-a%20message-blue?style=for-the-badge&logoColor=white)](https://prabinpanta0.github.io/glowing-enigma/)
-  
+  <a href="https://prabinpanta0.github.io/glowing-enigma/">
+  <img src="https://img.shields.io/badge/Send%20Me-a%20message-blue?style=for-the-badge&logoColor=white"
+  </a>
 </div>
 
 <br clear="both">
