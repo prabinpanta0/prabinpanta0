@@ -16,7 +16,6 @@
  
 </h1>
 
-
 ###
 
   <p align="center">
@@ -76,6 +75,9 @@
   <a href="https://huggingface.co/prabinpanta0" target="_blank">
     <img src="https://img.shields.io/badge/Hugging_Face-blue?style=for-the-badge&logo=HuggingFace" alt="HuggingFace">
   </a>
+  
+  [![Send Me a Message](https://img.shields.io/badge/Send%20Me-a%20message-blue?style=for-the-badge&logoColor=white)](https://prabinpanta0.github.io/glowing-enigma/)
+  
 </div>
 
 <br clear="both">
@@ -101,7 +103,7 @@
 
 <h3> 💳 <i>Github Profile Summary Card</i> </h3>
 
-<img width="200px" align="left" src="https://komarev.com/ghpvc/?username=Prabinpanta0&style=flat-square&color=22CCB2">
+<img width="200px" align="left" src="https://komarev.com/ghpvc/?username=Prabinpanta0&style=flat-square&color=22CCB2"> 
 <hr>
 <br>
 
@@ -118,11 +120,13 @@
 
     
 [![Prabin Panta's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prabinpanta0&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true&border_color=7F3FBF)](https://github.com/prabinpanta0)
-
+<hr/>
 <a href="https://github.com/prabinpanta0/F-U/actions/workflows/main.yml">
     <img width="200px" align="left" src="https://github.com/prabinpanta0/F-U/actions/workflows/main.yml/badge.svg?style=flat-square">
-</a>
-<hr/>
+</a> 
+
+[![Send Me a Message](https://img.shields.io/badge/Send%20Me-a%20message-blue?style=flat-square&logoColor=white)](https://prabinpanta0.github.io/glowing-enigma/)
+***
 
 
 <!-- ###
@@ -137,6 +141,6 @@
 </div>
 -->
 
-<b> Note </b> : Your follow status will be automatically adjusted.
+<b> Note </b> : Your follow status will be automatically adjusted. If you have any problem then you can send me a instant message with above link.
 
 </div>
