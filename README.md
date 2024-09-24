@@ -101,6 +101,9 @@
 
 <hr>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=prabinpanta0&theme=radical&no-frame=false&no-bg=true&margin-w=5)
+
 <h3> 💳 <i>Github Profile Summary Card</i> </h3>
 
 <img width="200px" align="left" src="https://komarev.com/ghpvc/?username=Prabinpanta0&style=flat-square&color=22CCB2"> 
