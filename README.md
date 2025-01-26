@@ -1,4 +1,6 @@
-![Debian_linux](https://github.com/user-attachments/assets/330568e3-82cc-4999-9479-081541d2e65b)<div style="background-color: #0d1117;">
+<div style="background-color: #0d1117;">
+
+  ![debian](https://github.com/user-attachments/assets/7d124402-a7d1-4465-af32-4e7a7dac85e3)
 
 
 <h1 align="center">
@@ -16,6 +18,7 @@
 ---
 
 <img align="right" height="200" src="https://i.pinimg.com/736x/68/05/df/6805df5c7dce83a617d8a3f6f9a7fd1d.jpg" />
+<br />
 
 ### About Me
 
