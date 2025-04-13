@@ -1,6 +1,6 @@
 <div style="background-color: #0d1117;">
 
-  ![debian](https://github.com/user-attachments/assets/7d124402-a7d1-4465-af32-4e7a7dac85e3)
+  ![parrot_os](os_image/image.png)
 
 
 <h1 align="center">
