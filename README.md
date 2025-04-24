@@ -1,6 +1,6 @@
 <div style="background-color: #0d1117;">
 
-  ![parrot_os](os_image/image.png)
+  ![parrot_os](os_image/image_new.png)
 
 
 <h1 align="center">
