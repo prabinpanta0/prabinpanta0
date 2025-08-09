@@ -14,7 +14,7 @@
   120 162 141 142 151 156  120 141 156 164 141 
   </samp></pre>
 
-  <p><strong>BSc(hons.)Computer Systems Engineering</strong> @ ISMT College (University of Sunderland) • Big Data • NLP • Machine Learning</p>
+  <p><strong>BSc(hons.) Computer Systems Engineering</strong> @ ISMT College (University of Sunderland) • Big Data • NLP • Machine Learning</p>
 
   <p>
     <img src="os_image/Arch_linux.png" alt="Arch Linux" width="160" />
@@ -30,11 +30,11 @@
   </p>
 
   <p>
-    <a href="#about-me">About</a> •
-    <a href="#tools--technologies">Tools & Technologies</a> •
-    <a href="#skills">Skills</a> •
-    <a href="#github-stats">Stats</a> •
-    <a href="#connect-with-me">Connect</a>
+  <a href="#about-me">About</a> •
+  <a href="#tools-and-technologies">Tools & Technologies</a> •
+  <a href="#skills">Skills</a> •
+  <a href="#github-stats">Stats</a> •
+  <a href="#connect-with-me">Connect</a>
   </p>
   
 </div>
@@ -43,18 +43,21 @@
 <p align="center"><samp>┄┄┄┄┄ ✎ ┄┄┄┄┄┄┄┄┄┄</samp></p>
 
 
-### 👋 About Me
+<h3 id="about-me">👋 About Me</h3>
 
-- BSc in IT (Computer Systems Engineering) student at <em>ISMT College</em>, affiliated with the <em>University of Sunderland</em>.
-- Passionate about <strong>big data analytics</strong>, <strong>natural language processing</strong>, and <strong>machine learning</strong>.
-- Comfortable with <strong>C</strong>, <strong>C++</strong>, <strong>C#</strong>, <strong>Python</strong>, <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>.
-- Hands-on with <strong>Google Cloud Natural Language API</strong>, <strong>Selenium</strong>, <strong>Generative AI</strong>, and <strong>Linux</strong>.
-- I enjoy building creative projects, automations, and exploring emerging tech.
+<p><samp>// learn • build • iterate</samp></p>
+
+- BSc(hons.) Computer Systems Engineering @ <em>ISMT College</em> (University of Sunderland)
+- Interests: <strong>Machine Learning</strong>, <strong>NLP</strong>, <strong>Data Engineering</strong>
+- I build: data pipelines, ML prototypes, and small automations
+- Exploring: <strong>Nix</strong>, <strong>OpenResty/Lua</strong>, <strong>LLM tooling</strong>
+- Linux‑first workflows (Arch). Minimal, reproducible, and scriptable
+- Open to collaborations in AI/ML, automation, and tooling
 
 ---
 <p align="center"><samp>┄┄┄┄┄ ✎ ┄┄┄┄┄┄┄┄┄┄</samp></p>
 
-### 🧰 Tools & Technologies
+<h3 id="tools-and-technologies">🧰 Tools & Technologies</h3>
 
 - scikit-learn, XGBoost, Keras, Python
 - React, Typescript, Js
@@ -67,7 +70,7 @@
 ---
 <p align="center"><samp>┄┄┄┄┄ ✎ ┄┄┄┄┄┄┄┄┄┄</samp></p>
 
-### 🧠 Skills
+<h3 id="skills">🧠 Skills</h3>
 
 - AI/ML
 - Data preprocessing and visualization
@@ -79,46 +82,85 @@
 ---
 <p align="center"><samp>┄┄┄┄┄ ✎ ┄┄┄┄┄┄┄┄┄┄</samp></p>
 
-### 📊 GitHub Stats
+<h3 id="github-stats">📊 GitHub Stats</h3>
 
 <details>
   <summary>Open to view</summary>
 
-  | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prabinpanta0&show_icons=true&hide_title=false&title_color=111111&text_color=333333&icon_color=555555&bg_color=FFFFFF00&border_color=DDDDDD) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prabinpanta0&theme=default&background=FFFFFF00&ring=666666&fire=888888&currStreakLabel=333333&sideNums=333333&sideLabels=777777&dates=777777) |
-  | --- | --- |
-  | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prabinpanta0&langs_count=8&layout=compact&title_color=111111&text_color=333333&bg_color=FFFFFF00&border_color=DDDDDD) | ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prabinpanta0&theme=default&utcOffset=5.45) |
+  <table>
+    <tr>
+      <td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=prabinpanta0&show_icons=true&theme=github_dark&hide_border=false" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=prabinpanta0&show_icons=true&theme=default&hide_border=false" />
+          <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=prabinpanta0&show_icons=true&theme=default&hide_border=false" />
+        </picture>
+      </td>
+      <td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=prabinpanta0&theme=dark&hide_border=false" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=prabinpanta0&theme=default&hide_border=false" />
+          <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=prabinpanta0&theme=default&hide_border=false" />
+        </picture>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=prabinpanta0&layout=compact&langs_count=8&theme=github_dark&hide_border=false" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=prabinpanta0&layout=compact&langs_count=8&theme=default&hide_border=false" />
+          <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabinpanta0&layout=compact&langs_count=8&theme=default&hide_border=false" />
+        </picture>
+      </td>
+      <td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prabinpanta0&theme=github_dark&utcOffset=5.45" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prabinpanta0&theme=github&utcOffset=5.45" />
+          <img alt="Productive Time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prabinpanta0&theme=github&utcOffset=5.45" />
+        </picture>
+      </td>
+    </tr>
+  </table>
 
 </details>
 
 ---
 <p align="center"><samp>┄┄┄┄┄ ✎ ┄┄┄┄┄┄┄┄┄┄</samp></p>
 
-### 🏆 Achievements
+<h3 id="achievements">🏆 Achievements</h3>
 
 <details>
   <summary>GitHub Trophies</summary>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=prabinpanta0&theme=flat&no-frame=true&no-bg=true&margin-w=5&title=MultiLanguage,Stars,Followers,Commit,Repositories,Issues,PullRequest" alt="GitHub Trophies" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=prabinpanta0&theme=onedark&no-frame=true&no-bg=true&margin-w=5&title=MultiLanguage,Stars,Followers,Commit,Repositories,Issues,PullRequest" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=prabinpanta0&theme=flat&no-frame=true&no-bg=true&margin-w=5&title=MultiLanguage,Stars,Followers,Commit,Repositories,Issues,PullRequest" />
+    <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=prabinpanta0&theme=flat&no-frame=true&no-bg=true&margin-w=5&title=MultiLanguage,Stars,Followers,Commit,Repositories,Issues,PullRequest" />
+  </picture>
 
 </details>
 
 ---
 <p align="center"><samp>┄┄┄┄┄ ✎ ┄┄┄┄┄┄┄┄┄┄</samp></p>
 
-### 📈 Activity
+<h3 id="activity">📈 Activity</h3>
 
 <details>
   <summary>Recent Activity Graph</summary>
 
   <a href="https://github.com/prabinpanta0">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=prabinpanta0&bg_color=FFFFFF00&color=444444&line=666666&point=333333&area=false&title_color=111111&border_color=DDDDDD" alt="Activity Graph" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=prabinpanta0&theme=github-dark&area=false" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=prabinpanta0&theme=github-compact&area=false" />
+      <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=prabinpanta0&theme=github-compact&area=false" />
+    </picture>
   </a>
 
 </details>
 
 ---
 
-### 🌐 Connect with Me
+<h3 id="connect-with-me">🌐 Connect with Me</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/prabinpanta00/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-555?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
