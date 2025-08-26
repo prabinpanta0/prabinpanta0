@@ -17,7 +17,7 @@
   <p><strong>BSc(hons.) Computer Systems Engineering</strong> @ ISMT College (University of Sunderland) • Big Data • NLP • Machine Learning</p>
 
   <p>
-    <img src="os_image/Arch_Linux.png" alt="Arch Linux" width="160" />
+    <img src="os_image/Arch_Linux_1.png" alt="Arch Linux" width="160" />
   </p>
 
   <p>
