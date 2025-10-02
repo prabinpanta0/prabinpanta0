@@ -133,9 +133,9 @@
   <summary>GitHub Trophies</summary>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=prabinpanta0&theme=onedark&no-frame=true&no-bg=true&margin-w=5" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=prabinpanta0&theme=flat&no-frame=true&no-bg=true&margin-w=5" />
-    <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=prabinpanta0&theme=flat&no-frame=true&no-bg=true&margin-w=5" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-trophies.vercel.app/?username=prabinpanta0&theme=radical&no-frame=true&no-bg=true&margin-w=5" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-trophies.vercel.app/?username=prabinpanta0&theme=radical&no-frame=true&no-bg=true&margin-w=5" />
+    <img alt="GitHub Trophies" src=https://github-trophies.vercel.app/?username=prabinpanta0&theme=radical&no-frame=true&no-bg=true&margin-w=5" />
   </picture>
 
 </details>
