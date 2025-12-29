@@ -13,14 +13,17 @@
   +-------------------+
   120 162 141 142 151 156  120 141 156 164 141 
   </samp></pre>
-
   <p><strong>BSc(hons.) Computer Systems Engineering</strong> @ ISMT College (University of Sunderland) • Big Data • NLP • Machine Learning</p>
 
   <p>
-    <img src="os_image/Arch_Linux-ed.png" alt="Arch Linux" width="160" />
+    <img src="os_image/Arch_Caelestia+Aeth.png" alt="Arch Linux" width="250" />
   </p>
 
   <p>
+
+  <a href="https://github.com/prabinpanta0">
+      <img src="https://img.shields.io/badge/prabinpanta0-blueviolet)?label=User:&style=flat&color=555" alt="GitHub followers" />
+    </a>
     <a href="https://github.com/prabinpanta0">
       <img src="https://img.shields.io/github/followers/prabinpanta0?label=Followers&style=flat&color=555" alt="GitHub followers" />
     </a>
@@ -91,27 +94,36 @@
     <tr>
       <td>
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=prabinpanta0&show_icons=true&theme=github_dark&hide_border=false" />
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=prabinpanta0&show_icons=true&theme=default&hide_border=false" />
-          <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=prabinpanta0&show_icons=true&theme=default&hide_border=false" />
+          <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=prabinpanta0&theme=zenburn" />
+          <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=prabinpanta0&theme=zenburn" />
+          <img alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=prabinpanta0&theme=zenburn" />
         </picture>
       </td>
       <td>
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=prabinpanta0&theme=dark&hide_border=false" />
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=prabinpanta0&theme=default&hide_border=false" />
-          <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=prabinpanta0&theme=default&hide_border=false" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=prabinpanta0&theme=zenburn&hide_border=true" />
+          <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=prabinpanta0&theme=zenburn&hide_border=true" />
+          <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=prabinpanta0&theme=zenburn&hide_border=true" />
         </picture>
       </td>
     </tr>
     <tr>
       <td>
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=prabinpanta0&layout=compact&langs_count=8&theme=github_dark&hide_border=false" />
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=prabinpanta0&layout=compact&langs_count=8&theme=default&hide_border=false" />
-          <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabinpanta0&layout=compact&langs_count=8&theme=default&hide_border=false" />
+          <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prabinpanta0&langs_count=8&theme=zenburn" />
+          <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prabinpanta0&langs_count=8&theme=zenburn" />
+          <img alt="Top Languages by repo" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prabinpanta0&langs_count=8&theme=zenburn" />
         </picture>
       </td>
+      <td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prabinpanta0&layout=compact&langs_count=8&theme=github_dark&hide_border=false" />
+          <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prabinpanta0&layout=compact&langs_count=8&theme=default&hide_border=false" />
+          <img alt="Top Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prabinpanta0&layout=compact&langs_count=8&theme=default&hide_border=false" />
+        </picture>
+      </td>
+    </tr>
+    <tr>
       <td>
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prabinpanta0&theme=github_dark&utcOffset=5.45" />
@@ -119,8 +131,17 @@
           <img alt="Productive Time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prabinpanta0&theme=github&utcOffset=5.45" />
         </picture>
       </td>
+      <td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=prabinpanta0&theme=zenburn" />
+          <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=prabinpanta0&theme=zenburn" />
+          <img alt="stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=prabinpanta0&theme=zenburn" />
+        </picture>
+      </td>
     </tr>
   </table>
+
+  
 
 </details>
 
@@ -180,6 +201,10 @@
   <a href="https://huggingface.co/prabinpanta0" target="_blank">
   <img src="https://img.shields.io/badge/Hugging_Face-555?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" />
   </a>
+</div>
+
+<div align="center">
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prabinpanta0&repo=Aeth&theme=react&bg_color=121317&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
 </div>
 
 ---
