@@ -101,9 +101,9 @@
       </td>
       <td>
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=prabinpanta0&theme=zenburn&hide_border=true" />
-          <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=prabinpanta0&theme=zenburn&hide_border=true" />
-          <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=prabinpanta0&theme=zenburn&hide_border=true" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=%22prabinpanta0%22" />
+          <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=%22prabinpanta0%22" />
+          <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=%22prabinpanta0%22" />
         </picture>
       </td>
     </tr>
