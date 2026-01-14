@@ -204,10 +204,11 @@
 </div>
 
 <div align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prabinpanta0&repo=Aeth&theme=react&bg_color=121317&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+<a href="https://github.com/prabinpanta0/aeth"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prabinpanta0&repo=Aeth&theme=react&bg_color=121317&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
 </div>
 
 ---
 
 <sub>Note: Stats cards and graphs are powered by third‑party services and may experience occasional downtime.</sub>
+
 
