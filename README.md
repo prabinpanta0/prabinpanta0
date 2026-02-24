@@ -101,8 +101,8 @@
       </td>
       <td>
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=%22prabinpanta0%22" />
-          <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=%22prabinpanta0%22" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=prabinpanta0&theme=nordfox" />
+          <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=prabinpanta0&theme=nordfox" />
           <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=%22prabinpanta0%22" />
         </picture>
       </td>
@@ -117,27 +117,27 @@
       </td>
       <td>
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prabinpanta0&layout=compact&langs_count=8&theme=github_dark&hide_border=false" />
-          <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prabinpanta0&layout=compact&langs_count=8&theme=default&hide_border=false" />
-          <img alt="Top Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prabinpanta0&layout=compact&langs_count=8&theme=default&hide_border=false" />
+          <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prabinpanta0&layout=compact&langs_count=8&theme=zenburn&hide_border=false" />
+          <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prabinpanta0&layout=compact&langs_count=8&theme=zenburn&hide_border=false" />
+          <img alt="Top Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prabinpanta0&layout=compact&langs_count=8&theme=zenburn&hide_border=false" />
         </picture>
       </td>
     </tr>
     <tr>
       <td>
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prabinpanta0&theme=github_dark&utcOffset=5.45" />
-          <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prabinpanta0&theme=github&utcOffset=5.45" />
-          <img alt="Productive Time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prabinpanta0&theme=github&utcOffset=5.45" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prabinpanta0&theme=zenburn&utcOffset=5.45" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prabinpanta0&theme=zenburn&utcOffset=5.45" />
+          <img alt="Productive Time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prabinpanta0&theme=zenburn&utcOffset=5.45" />
         </picture>
       </td>
-      <td>
+      <!-- <td>
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=prabinpanta0&theme=zenburn" />
           <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=prabinpanta0&theme=zenburn" />
           <img alt="stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=prabinpanta0&theme=zenburn" />
         </picture>
-      </td>
+      </td> -->
     </tr>
   </table>
 
@@ -210,5 +210,6 @@
 ---
 
 <sub>Note: Stats cards and graphs are powered by third‑party services and may experience occasional downtime.</sub>
+
 
 
