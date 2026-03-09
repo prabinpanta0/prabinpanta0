@@ -13,29 +13,28 @@
   +-------------------+
   120 162 141 142 151 156  120 141 156 164 141 
   </samp></pre>
-  <p><strong>BSc(hons.) Computer Systems Engineering</strong> @ ISMT College (University of Sunderland) • Big Data • NLP • Machine Learning</p>
+  <p><strong>Software Engineering Intern | Computer Systems Engineering Graduate </strong></p>
 
   <p>
-    <img src="os_image/Arch_Caelestia+Aeth.png" alt="Arch Linux" width="250" />
+    <img src="os_image/Arch_Linux_KDE.png" alt="Arch Linux" width="250" />
   </p>
 
   <p>
 
   <a href="https://github.com/prabinpanta0">
-      <img src="https://img.shields.io/badge/prabinpanta0-blueviolet)?label=User:&style=flat&color=555" alt="GitHub followers" />
+      <img src="https://img.shields.io/badge/prabinpanta0-blueviolet)?label=User&style=flat&color=77" alt="GitHub followers" />
     </a>
     <a href="https://github.com/prabinpanta0">
-      <img src="https://img.shields.io/github/followers/prabinpanta0?label=Followers&style=flat&color=555" alt="GitHub followers" />
+      <img src="https://img.shields.io/github/followers/prabinpanta0?label=Followers&style=flat&color=77" alt="GitHub followers" />
     </a>
     <a href="https://github.com/prabinpanta0?tab=repositories">
-      <img src="https://img.shields.io/github/stars/prabinpanta0?affiliations=OWNER%2CCOLLABORATOR&style=flat&color=777" alt="GitHub stars" />
+      <img src="https://img.shields.io/github/stars/prabinpanta0?affiliations=OWNER%2CCOLLABORATOR&style=flat&color=77" alt="GitHub stars" />
     </a>
   </p>
 
   <p>
   <a href="#about-me">About</a> •
-  <a href="#tools-and-technologies">Tools & Technologies</a> •
-  <a href="#skills">Skills</a> •
+  <a href="#tools-and-technologies">Toolkits</a> •
   <a href="#github-stats">Stats</a> •
   <a href="#connect-with-me">Connect</a>
   </p>
@@ -46,49 +45,33 @@
 <p align="center"><samp>┄┄┄┄┄ ✎ ┄┄┄┄┄┄┄┄┄┄</samp></p>
 
 
-<h3 id="about-me">👋 About Me</h3>
+<h3 id="about-me"> About Me</h3>
 
 <p><samp>// learn • build • iterate</samp></p>
 
-- BSc(hons.) Computer Systems Engineering @ <em>ISMT College</em> (University of Sunderland)
-- Interests: <strong>Machine Learning</strong>, <strong>NLP</strong>, <strong>Data Engineering</strong>
-- I build: data pipelines, ML prototypes, and small automations
-- Exploring: <strong>Nix</strong>, <strong>OpenResty/Lua</strong>, <strong>LLM tooling</strong>
-- Linux‑first workflows (Arch). Minimal, reproducible, and scriptable
-- Open to collaborations in AI/ML, automation, and tooling
+I build systems that bridge the gap between digital logic and intelligent software. Currently navigating the transition from student life to industry, while maintaining a strictly "_Linux-first_" lifestyle.
+
 
 ---
 <p align="center"><samp>┄┄┄┄┄ ✎ ┄┄┄┄┄┄┄┄┄┄</samp></p>
 
-<h3 id="tools-and-technologies">🧰 Tools & Technologies</h3>
+<h3 id="tools-and-technologies">Toolkits</h3>
 
-- scikit-learn, XGBoost, Keras, Python
-- React, Typescript, Js
-- Nix, OpenResty, Nginx, Lua
-- PostgreSQL, SQLite, Mongodb
-- Linux, Git & Github
-- Android Studio, AI tools
-- Gradio, streamlit, Plantuml, mermaid
-
----
-<p align="center"><samp>┄┄┄┄┄ ✎ ┄┄┄┄┄┄┄┄┄┄</samp></p>
-
-<h3 id="skills">🧠 Skills</h3>
-
-- AI/ML
-- Data preprocessing and visualization
-- Logic Simulation & Truth Tables
-- Python Programming
-- Debugging
-- Problem-Solving & Self-Learning
+Category|Technologies
+--|--
+Languages| Python, Haskell, TypeScript, Lua, JavaScript, Julia
+Frameworks/Libs| TensorFlow, Keras, scikit-learn, XGBoost, React
+Systems/DevOps| Arch Linux, OpenResty, Git, Docker
+Data/Backend| PostgreSQL, SQLite, MongoDB, Data Pipelines
+Tools/Other| Neovim, Kitty, Zsh, Android Studio, AI Tools
 
 ---
 <p align="center"><samp>┄┄┄┄┄ ✎ ┄┄┄┄┄┄┄┄┄┄</samp></p>
 
-<h3 id="github-stats">📊 GitHub Stats</h3>
+<h3 id="github-stats"> GitHub Stats</h3>
 
 <details>
-  <summary>Open to view</summary>
+  <summary> Open to view</summary>
 
   <table>
     <tr>
@@ -148,10 +131,10 @@
 ---
 <p align="center"><samp>┄┄┄┄┄ ✎ ┄┄┄┄┄┄┄┄┄┄</samp></p>
 
-<h3 id="achievements">🏆 Achievements</h3>
+<h3 id="achievements"> Achievements</h3>
 
 <details>
-  <summary>GitHub Trophies</summary>
+  <summary> GitHub Trophies</summary>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-trophies.vercel.app/?username=prabinpanta0&theme=radical&no-frame=true&no-bg=true&margin-w=5" />
@@ -164,10 +147,10 @@
 ---
 <p align="center"><samp>┄┄┄┄┄ ✎ ┄┄┄┄┄┄┄┄┄┄</samp></p>
 
-<h3 id="activity">📈 Activity</h3>
+<h3 id="activity"> Activity</h3>
 
 <details>
-  <summary>Recent Activity Graph</summary>
+  <summary> Recent Activity Graph</summary>
 
   <a href="https://github.com/prabinpanta0">
     <picture>
@@ -181,7 +164,7 @@
 
 ---
 
-<h3 id="connect-with-me">🌐 Connect with Me</h3>
+<h3 id="connect-with-me"> Connect with Me</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/prabinpanta00/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-555?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -193,7 +176,7 @@
   <img src="https://img.shields.io/badge/Facebook-555?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://twitter.com/PrabinPanta6" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter%2FX-111?style=for-the-badge&logo=x&logoColor=white" alt="Twitter / X" />
+    <img src="https://img.shields.io/badge/Twitter-555?style=for-the-badge&logo=x&logoColor=white" alt="Twitter / X" />
   </a>
   <a href="mailto:pantaprabin30@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-555?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
@@ -203,13 +186,14 @@
   </a>
 </div>
 
-<div align="center">
-<a href="https://github.com/prabinpanta0/aeth"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prabinpanta0&repo=Aeth&theme=react&bg_color=121317&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
-</div>
 
 ---
 
-<sub>Note: Stats cards and graphs are powered by third‑party services and may experience occasional downtime.</sub>
+```julia
+# The Weight of the crown that was never meant to be worn.
+delete!(God, :Mercy)
+@warn "Heaven's most beautiful mistake!"
+```
 
 
 
